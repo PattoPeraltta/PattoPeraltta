@@ -19,10 +19,11 @@
 
 ### Recent 
 
-- [`textflow`](https://github.com/YOUR_REPO) · reading experiments in PsychoPy  
-- [`ripe`](https://github.com/YOUR_REPO) · experimental voting prototype with zk  
-- [`viz/pesca`](https://github.com/YOUR_REPO) · interactive map of illegal fishing (D3/Svelte)  
-- [`rec-player`](https://github.com/YOUR_REPO) · vinyl-inspired audio UI built from scratch
+- [`Certo`](https://github.com/santi-nihany/certo) · reading experiments in PsychoPy  
+- [`Ripe`](https://github.com/YOUR_REPO) · experimental voting prototype with zk  
+- [`vizPesca`](https://github.com/YOUR_REPO) · interactive map of illegal fishing (D3/Svelte)  
+- [`recPlayer`](https://github.com/YOUR_REPO) · vinyl-inspired design codification excercise
+ 
 
 ---
 
