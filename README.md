@@ -9,7 +9,7 @@
 
 ---
 
-### now
+### Me
 
 🧩 Studying Computer Science at UTDT  
 💻 Building tools with intention — currently into creative dev, experiments & interfaces  
@@ -17,16 +17,7 @@
 
 ---
 
-### what I like building
-
-- Interfaces that feel intuitive  
-- Experiments that ask better questions
-- Functional Bots
-- 
-
----
-
-### recent projects
+### Recent 
 
 - [`textflow`](https://github.com/YOUR_REPO) · reading experiments in PsychoPy  
 - [`ripe`](https://github.com/YOUR_REPO) · experimental voting prototype with zk  
@@ -35,11 +26,7 @@
 
 ---
 
-### tech stack
+### Stack
 
-`ts` · `py` · `svelte` · `next.js` · `tailwind`  
-`fastapi` · `postgres` · `figma` · `git`
-
----
-
-> _"Tools shape thinking. Code is just one of them."_
+`py` · `js` ·`ts` · `svelte` · `next.js` · `tailwind`  
+`fastapi` · `figma` · `git` · `react` · `js` 
