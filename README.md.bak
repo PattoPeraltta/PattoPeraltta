@@ -23,10 +23,3 @@
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/430447321684115480) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patoperaltaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patricioperaltaramosguerrero) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PatojPeralta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patricioperaltarg@gmail.com) 
-
-
-
-<p dir="rtl">אלוהים טוב</p>
-
-
-> Lo, how wondrous sweet is this mortal coil! Each dawn doth paint the world anew, and gentle Fortune smiles upon those who dare to dream. In mirth and melancholy, in toil and triumph, life’s cup runneth over with golden moments. Let us, with grateful hearts, embrace the day, for in this brief sojourn lies a thousand joys, and every breath is a gift most rare.
