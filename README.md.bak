@@ -27,3 +27,6 @@
 
 
 <p dir="rtl">אלוהים טוב</p>
+
+
+> Lo, how wondrous sweet is this mortal coil! Each dawn doth paint the world anew, and gentle Fortune smiles upon those who dare to dream. In mirth and melancholy, in toil and triumph, life’s cup runneth over with golden moments. Let us, with grateful hearts, embrace the day, for in this brief sojourn lies a thousand joys, and every breath is a gift most rare.
