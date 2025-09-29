@@ -1,11 +1,10 @@
 <h1>Pato</h1>
-<p align="left"><em>Systems thinker · Code stylist · Curious human</em></p>
+<p align="left"><em>Curious human</em></p>
 
 ### Me
 
 - BSc. in Digital Technologies Student at UTDT 🎓
-- Building tools with intention — currently into creative dev, algorithms & interfaces 💻
-- Making noise with a saxophone when the code gets too quiet 🎷
+- Building tools with intention — currently into creative dev, ai, blockchain & more 💻
 
   ---
 
@@ -13,7 +12,6 @@
 
 - [`Certo`](https://certo-three.vercel.app/) · safe and replicable survey hosting platform using web3
 - [`Ripe`](https://github.com/PattoPeraltta/Ripe) · experimental voting prototype with zk  
-- [`vizPesca`](https://github.com/YOUR_REPO) · interactive dataViz of illegal fishing (D3/Svelte)  
 - [`recPlayer`](https://github.com/YOUR_REPO) · vinyl-inspired design codification excercise
 
 
